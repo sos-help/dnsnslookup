@@ -1,0 +1,36 @@
+
+SOS-help.cn
+@TXT 
+HELP!!!!  17705434972 17702434973
+
+@mx1:sos-help.xyz(可以大家看的那个域名)
+@mx2:dnstunnel.Ltd(我dns隧道连接主机使用 已经dns隧道和阿里云教程，也是需要这个域。)
+@mx3:HTTPDNS.top(一个安全解析服务)
+@mx4:HTTPDNS.xyx(一个安全解析服务)
+@mx5:wuxianshudian.cn(无线输电)
+@mx6:wuxianshudian.com(无线输电)
+
+www别名:dnstunnel.ltd然后别名:www.HTTPDNS.top然后别名:www.HTTPDNS.xyz最后别名:wuxianshudian.cn
+然后添加a和AAAA记录
+A
+180.201.32.34
+219.146.214.91
+222.134.41.98
+AAAA
+2001:250:581b:100::3
+
+sos-help.xyz
+@TXT HELP!!!! 17705434973 17705434973
+@mx1:sos-help.cn(让大家看的中文网站)
+@mx2:dnstunnel.ltd(dns隧道远程管理以及域名解析教程需要)
+@mx3:HTTPDNS.top(安全解析服务)
+@mx4:HTTPDNS.xyz(安全解析服务)
+@mx5:wuxianshudian.com(无线输电)
+www别名www.dnstunnel.ltd然后再别名:www.HTTPDNS.top然后再别名:www.HTTPDNS.xyz然后再别名wuxianshudian.com
+最后再添加a和AAAA记录
+A
+180.201.32.34
+219.146.214.91
+222.134.41.98
+AAAA
+2001:250:581b:100::3
